@@ -10,6 +10,7 @@ public class Trainer {
 	private int trainerId;
 	private String trainerName;
 	private String trainerAddress;
+	
 	public int getTrainerId() {
 		return trainerId;
 	}
